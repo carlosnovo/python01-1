@@ -1,0 +1,14 @@
+Aquinator.py
+______________________________________________________
+
+Archivo escrito en Python en el que se usa 3 API diferentes (Twitter, URLLib2, APIWeather) para la realización 
+de un boot en Twitter con el fin de que al recibir una mención con una sola palabra (la ciudad en cuestión) hace 
+peticiones a un JSON y devuelve dicha mención al usuario en cuestión informándole del estado climatológico de 
+su ciudad.
+
+Trabajo realizado por:
+
+  García Luz, Jesús Manuel
+  Roncero Jiménez, Jesús
+  Macias Periñan, Francisco
+  Novo Foncubierta, Carlos Alberto
